@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Logbook</string>
+    <string name="font">"@font/alata"</string>
+</resources>

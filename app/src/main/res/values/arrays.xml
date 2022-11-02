@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="images">
+        <item>https://images8.alphacoders.com/380/thumb-1920-380977.jpg</item>
+        <item>https://wallpaper.dog/large/5439031.jpg</item>
+        <item>https://wallpaperaccess.com/full/384178.jpg</item>
+        <item>https://img5.goodfon.com/wallpaper/nbig/b/54/priroda-vetki-listia-zhivotnoe-sobaka-pios-poza.jpg</item>
+        <item>https://tdma.info/wp-content/uploads/2017/08/dog-wallpaper-49.jpg</item>
+        <item>http://www.graphicmania.net/wp-content/uploads/2013/07/dog-wallpaper06.jpg</item>
+    </string-array>
+
+</resources>
